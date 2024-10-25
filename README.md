@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<!-- Below data add in create .env.local -->
+<!-- NEXT_PUBLIC_SUPABASE_URL=https://dbhxuyiskzohvmsoygck.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRiaHh1eWlza3pvaHZtc295Z2NrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjcwOTE1OTEsImV4cCI6MjA0MjY2NzU5MX0.m8uWvY-8jKooVQDJjcCYH3StulFLd8OE6RC82ARIsWY
+GITHUB_CLIENT_ID=Ov23liz5vN5vGuhhtJnl
+GITHUB_SECRET_KEY=e082352949e5815fe9d9efe08c6f1f6bdbbf51c0
+NEXT_PUBLIC_STRIPE_PUBLISH_KEY=pk_test_51Pxqh92Nidz8IGwGHZFeihUIauwffILogMIiLfdeTXJWHbZAxSt0mC17fosJ6TIxG2BVuWzrJqmqV23vKOqTWbTn00TFn95Awm
+NEXT_PUBLIC_STRIPE_SECRET_KEY=sk_test_51Pxqh92Nidz8IGwGuH2o7ZyO9cOMrYVSAsUXvrHXIDXXZVNnj8790t9gbsMbNTPoPEALzbgZQpYYJiE0as1PAyrs001va9CGB0
+HOST=http://localhost:3000 -->
